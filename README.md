@@ -7,15 +7,15 @@
  2. **Faces**: The program takes an image and creates a new image with the faces detected in said image.
 
 ## Built with
-[Python 3.9](https://docs.python.org/3.9/whatsnew/3.9.html)
+1. [Python 3.9](https://docs.python.org/3.9/whatsnew/3.9.html)
 
 ## Resources
-[Pillow Libary](https://pypi.org/project/Pillow/)
-[Tesseract](https://github.com/tesseract-ocr/tesseract/wiki#windows)
-[Pytesseract](https://pypi.org/project/pytesseract/)
-[Open CV](https://pypi.org/project/opencv-python/)
-[Open CV Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
-[Pycharm Professional](https://www.jetbrains.com/es-es/pycharm/download/#section=windows)
+1. [Pillow Libary](https://pypi.org/project/Pillow/)
+2. [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki#windows)
+3. [Pytesseract](https://pypi.org/project/pytesseract/)
+4. [Open CV](https://pypi.org/project/opencv-python/)
+5. [Open CV Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+6. [Pycharm Professional](https://www.jetbrains.com/es-es/pycharm/download/#section=windows)
 
 ## Prerequisites
 1. Install [Pycharm Professional](https://www.jetbrains.com/es-es/pycharm/download/#section=windows)
